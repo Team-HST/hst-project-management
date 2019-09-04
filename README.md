@@ -3,6 +3,7 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 
 ## 관리 프로젝트 목록
 1. site-scrapper
+2. deveely
 
 ## 문서(document)의 종류
 #### 1. 기획서
