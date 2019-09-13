@@ -8,8 +8,8 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 3. plog
 4. mentoring-Q
 5. 스터디플랫폼 (가제)
-6. 알리미 프로젝트 (플랫폼 기반 알리미, Kakao API나 Push 서버 사용등)
-
+6. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
+   가제: RE:Minder
 
 ## 문서(document)의 종류
 #### 1. 기획서
