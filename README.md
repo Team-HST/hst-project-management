@@ -3,12 +3,13 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 
 ## 관리 프로젝트 목록
 1. site-scrapper
-
-2. deveely
-3. plog
-4. mentoring-Q
-5. 스터디플랫폼 (가제)
-6. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
+2. 연애지도 (가제)
+   연인끼리 놀러온 곳 다녀온 곳 등등 데이트 한 거를 블로그 형태로 등록하고, 볼수 있는 사이트
+3. deveely
+4. plog
+5. mentoring-Q
+6. 스터디플랫폼 (가제)
+7. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
    가제: RE:Minder
 
 ## 문서(document)의 종류
