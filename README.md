@@ -2,7 +2,7 @@
 HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기획 등 운영/개발 전반에 대한 문서(document)를 관리하는 repository
 
 ## 관리/개발 프로젝트 목록
-1. site-scrapper (개발)
+1. site-scrapper (In-Process)
 
 ## 계획중인 프로젝트 목록
 1. 연애지도 : 연인끼리 놀러온 곳, 다녀온 곳 등등 데이트 한 것들 블로그 형태로 등록하고, 볼 수 있는 사이트
