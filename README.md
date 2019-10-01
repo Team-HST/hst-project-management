@@ -5,14 +5,20 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 1. site-scrapper (개발)
 
 ## 계획중인 프로젝트 목록
+### General
 1. 연애지도 : 연인끼리 놀러온 곳, 다녀온 곳 등등 데이트 한 것들 블로그 형태로 등록하고, 볼 수 있는 사이트
-2. github API 를 활용한 github 활동 시각화 사이트
-3. deveely
-4. plog
-5. mentoring-Q
-6. 스터디플랫폼 (가제)
-7. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
-   가제: RE:Minder
+2. deveely
+3. mentoring-Q
+4. 스터디플랫폼 (가제)
+5. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
+	   가제: RE:Minder
+
+### IT
+1. github API 를 활용한 github 활동 시각화 사이트
+2. knocker - 사이트 자동 헬스체크 + 알림
+
+### Blog
+1. plog
 
 ## 문서(document)의 종류
 #### 1. 기획서(planning.md)
