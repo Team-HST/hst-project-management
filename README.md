@@ -39,8 +39,28 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 프로젝트를 완성하기 위해 사용할 기술스택을 정의
 
 ### Backend
+Spring Boot
 
 ### Frontend
+React
+
+### Security
+Spring Security with JWT
+
+### DBMS
+MySQL
+
+### Persistence
+JPA - Hibernate
+
+### API Documentation
+Swagger UI
+
+### Frontend Build
+npm, yarn, webpack
+
+### Backend Build
+Maven
 
 ## 마일스톤
 단계별로 지정
