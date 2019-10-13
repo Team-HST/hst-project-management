@@ -46,3 +46,7 @@ with-daily의 컨셉과 사용되는 용어를 아래와 같이 정의한다.
 - [ ] 커플 페이지를 설정하는 기능을 제공한다. 
 - [ ] 커플 페이지에서 활동을 등록하는 기능을 제공한다
 - [ ] 커플 페이지에서 등록된 활동을 여러 형태로 시각화하여 보여준다.
+
+## 템플릿 후고
+1. http://react-material.fusetheme.com/apps/dashboards/analytics
+2. http://preview.themeforest.net/item/dandelion-pro-react-admin-dashboard-template/full_screen_preview/22890261
