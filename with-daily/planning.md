@@ -58,8 +58,10 @@ with-daily의 컨셉과 사용되는 용어를 아래와 같이 정의한다.
 
 ### Backend Build
 - Maven
-### ERD
+
+## ERD
 - AQueryTool - http://aquerytool.com:80/aquerymain/index/?rurl=b0862bdf-6d63-4852-8ba8-6d64f5bb7172
+
 ## 마일스톤
 - [ ] 계정생성, 로그인 기능 제공한다.
 - [ ] 커플 페이지를 설정하는 기능을 제공한다. 
