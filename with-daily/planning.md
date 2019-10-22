@@ -69,6 +69,5 @@ AQueryTool - http://aquerytool.com:80/aquerymain/index/?rurl=b0862bdf-6d63-4852-
 
 TODO 마일스톤 마저 작성해야함
 
-## 템플릿 후보
-1. http://react-material.fusetheme.com/apps/dashboards/analytics
-2. http://preview.themeforest.net/item/dandelion-pro-react-admin-dashboard-template/full_screen_preview/22890261
+## 템플릿
+https://themeforest.net/item/dandelion-pro-react-admin-dashboard-template/22890261?_ga=2.165252215.938820543.1571734052-1995549028.1570153841
