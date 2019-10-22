@@ -63,9 +63,6 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 ### Backend Build
 - Maven
 
-## Template
-- Themeforest
-
 ## 마일스톤
 - [ ] 프로젝트 기능1 을 제공한다. (만기일 작성)
 ```
