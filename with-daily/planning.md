@@ -60,14 +60,16 @@ with-daily의 컨셉과 사용되는 용어를 아래와 같이 정의한다.
 - Gradle
 
 ## ERD
-AQueryTool - http://aquerytool.com:80/aquerymain/index/?rurl=b0862bdf-6d63-4852-8ba8-6d64f5bb7172
+- [ERD] (http://aquerytool.com:80/aquerymain/index/?rurl=b0862bdf-6d63-4852-8ba8-6d64f5bb7172)
+- 7z8c4l
 
 ## 마일스톤
 - [ ] 계정생성, 로그인 기능 제공한다.
 - [ ] 커플 페이지를 설정하는 기능을 제공한다. 
 - [ ] 커플 페이지에서 타임라인 기능을 제공한다.
+- [ ] 커플 간 실시간 메시지 기능을 제공한다.
+- [ ] 커플 페이지에서 지도 활용 기능을 제공한다.
 
-TODO 마일스톤 마저 작성해야함
 
 ## 템플릿
 https://themeforest.net/item/dandelion-pro-react-admin-dashboard-template/22890261?_ga=2.165252215.938820543.1571734052-1995549028.1570153841
