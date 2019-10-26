@@ -14,6 +14,7 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 4. 알리미 프로젝트 (내가 적어둔 일정을 각종 플랫폼을 활용해 알림을 전송해줌, Kakao API나 Push 서버 사용등)
 	가제: RE:Minder
 5. site-scrapper 
+6. 도서 + 목차 TODO 생성 사이트
 
 ### IT
 1. github API 를 활용한 github 활동 시각화 사이트
