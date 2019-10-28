@@ -60,7 +60,7 @@ with-daily의 컨셉과 사용되는 용어를 아래와 같이 정의한다.
 - Swagger UI
 
 ### Frontend Build
-- npm, yarn, webpack
+- npm, yarn, webpack, gulp(검토)
 
 ### Backend Build
 - Gradle
