@@ -16,6 +16,7 @@ HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기�
 	가제: RE:Minder
 5. site-scrapper 
 6. 도서 + 목차 TODO 생성 사이트
+7. 카페 정보 모음 사이트
 
 ### IT
 1. github API 를 활용한 github 활동 시각화 사이트
