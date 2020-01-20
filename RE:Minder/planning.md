@@ -27,17 +27,17 @@ HST 범용 알림 전송 서비스 제공
     - 추후 추가
 
 ## 화면 목록 & 기능 매핑
-- 로그인 뷰
+- LoginView
   - Github 로그인
-- 회원가입 뷰
+- RegistrationView
   - Github 로그인 시 정보 등록 여부에 따라 가입하도록 유도
-- 대시보드 뷰 
+- DashboardView 
   - 알림 관리, 채널 관리, 계정 등 현황
-- 티켓 뷰
+- TicketView
   - 자신이 등록한 알림 목록 탭
   - 자신이 수신자인 알림 목록 탭
-- 채널 뷰
-- 내 정보 수정 뷰
+- ChannelView
+- SettingView
   - 기본정보, 수신 채널 수정
 
 ## 기술스택
@@ -50,4 +50,3 @@ HST 범용 알림 전송 서비스 제공
   - Vue.js
 
 ## 마일스톤
--
