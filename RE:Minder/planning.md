@@ -52,3 +52,6 @@ HST 범용 알림 전송 서비스 제공
   - Vue.js
 
 ## 마일스톤
+
+## ERD 
+https://aquerytool.com - Reminder_ERD
