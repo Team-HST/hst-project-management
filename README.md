@@ -1,9 +1,10 @@
-﻿## 개요
+## 개요
 HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기획 등 운영/개발 전반에 대한 문서(document)를 관리하는 repository
 
 ## 개발 진행중인 프로젝트
 - RE:Minder
 - wpay 고도화
+- triptale
 
 ---
 ## 운영중인 프로젝트
