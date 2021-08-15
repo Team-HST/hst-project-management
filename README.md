@@ -2,20 +2,17 @@
 HST Service Cloud 를 통해 제공중인 프로젝트, 신규 프로젝트 기획 등 운영/개발 전반에 대한 문서(document)를 관리하는 repository
 
 ## 개발 진행중인 프로젝트
-- RE:Minder
-- wpay 고도화
-- triptale
+- nklcb
 
 ---
 ## 운영중인 프로젝트
+- Triptale
+- HST-Talk
 
 ---
 ## 계획중인 프로젝트 목록
-- 위드데일리 : 커플 SNS, 연인끼리 놀러온 곳, 다녀온 곳 등등 데이트 한 것들 블로그 형태로 등록하고, 볼 수 있는 사이트
-- 에이치에스티톡 : HST Team 개발진행 이벤트 공유 및 reminder 연계를 통한 이슈 전달 사이트 
-- 카페 정보 모음 사이트
-- github API 를 활용한 github 활동 시각화 사이트
-- plog : Spring Boot 기반 설치형 블로그
+- withdaily : 커플 SNS, 연인끼리 놀러온 곳, 다녀온 곳 등등 데이트 한 것들 블로그 형태로 등록하고, 볼 수 있는 서비스
+- devus : 개발자 웹 포트폴리오 + 토이 프로젝트 공유 서비스
 
 ---
 ## 문서(document)의 종류
